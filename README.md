@@ -1,2 +1,2 @@
-# QuestGameCW
-An interactive text based game using html and javascript
+# QuestGame
+Web Technologies Part 2 - Quest 
